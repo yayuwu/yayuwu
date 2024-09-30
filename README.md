@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm Yael,  a Front End Developer</h1>
 
 ###
-<h2>About me</h2>
+### About me
 <p align="center">I am a dedicated and persevering person, focused on improvement and continuous learning. I seek active contribution in a team to achieve common goals and generate a positive impact on society.</p>
 
 ###
@@ -13,7 +13,7 @@
 
 ###
 
-<h2>Tecnologies</h2>
+### Tecnologies
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="16" />
