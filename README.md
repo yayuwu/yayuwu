@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">a dedicated and persevering person, focused on improvement and continuous learning. I seek active contribution in a team to achieve common goals and generate a positive impact on society.</p>
+<p align="center">I am a dedicated and persevering person, focused on improvement and continuous learning. I seek active contribution in a team to achieve common goals and generate a positive impact on society.</p>
 
 ###
 
