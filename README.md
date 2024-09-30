@@ -2,7 +2,7 @@
 
 ###
 ### About me
-<p align="center">I am a dedicated and persevering person, focused on improvement and continuous learning. I seek active contribution in a team to achieve common goals and generate a positive impact on society.</p>
+<p align="left">I am a dedicated and persevering person, focused on improvement and continuous learning. I seek active contribution in a team to achieve common goals and generate a positive impact on society.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 ###
 
 ### Tecnologies
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
