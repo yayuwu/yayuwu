@@ -1,8 +1,6 @@
-<h1 align="left">Hi! I'm Yael,  a Front End Developer</h1>
-
 ###
 # 💫 About Me:
-I am a dedicated and persevering person, focused on improvement and continuous learning. I seek active contribution in a team to achieve common goals and generate a positive impact on society.
+Hi! I'm Yael,  a Front End Developer. I am a dedicated and persevering person, focused on improvement and continuous learning. I seek active contribution in a team to achieve common goals and generate a positive impact on society.
 
 
 # 💻 Tech Stack:
